@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 📝 Contribution Guide (Fork & Pull Request) 🚀✨
 
 ## ⭐ First Time Contribution 🌟
@@ -83,5 +82,3 @@ git push origin feature-name
 
 ### 5️⃣ Open a new Pull Request 🔀
 =======
-# Frontend Task Rewan Mohamed
->>>>>>> rewan_mohamed_branch
